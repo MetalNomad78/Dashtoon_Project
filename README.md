@@ -7,4 +7,5 @@ https://github.com/MetalNomad78/Dashtoon_Project/assets/88272018/3b7d3b20-f9c8-4
 
 
 
+![Grey 3 Points Process Roadmap Infographic Graph](https://github.com/MetalNomad78/Dashtoon_Project/assets/88272018/ec074f42-e2a7-420e-b3cc-8dbdf655cd5b)
 
