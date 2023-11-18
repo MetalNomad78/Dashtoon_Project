@@ -17,21 +17,21 @@ https://github.com/MetalNomad78/Dashtoon_Project/assets/88272018/3b7d3b20-f9c8-4
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Siddhant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-I'm a Aspiring Software Developer  👨‍💻, Currently in Final year at IIT guwahati 👨‍🎓
+I'm a Aspiring Software Developer  👨‍💻, Currently in my Final year at IIT guwahati 👨‍🎓
 
 - 🔭 I’m currently working on taking rest  
-- 🌱 I’m currently learning about Data Structures, Web Dev, etc, etc.
+- 🌱 I’m currently learning about Data Structures, Web Dev, etc.
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:200107082siddhant@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 
-### Some Stats About Siddhant (Public Only)
+
 <p align="center" >
 
 <a>Check more about me here 🌟 </a>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/200107082siddhant" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sid_8171" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/sid_8171" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
