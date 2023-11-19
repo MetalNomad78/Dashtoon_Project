@@ -23,7 +23,7 @@ https://github.com/MetalNomad78/Dashtoon_Project/assets/88272018/3b7d3b20-f9c8-4
 
 I'm an Aspiring Software Developer  👨‍💻, Currently in my Final year at IIT Guwahati 👨‍🎓
  
-- 🌱 I’m currently learning about Data Structures, Web Dev, etc.
+- 🌱 I’m proficient in Data Structures, Web Dev, etc.
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:200107082)](mailto:200107082siddhant@gmail.com)
 
