@@ -9,7 +9,7 @@
 
 ## Scroll down to know more about the project and me
 
-## [Have a Look at the Live Site](https://6y7lsf.csb.app/)
+## [Have a Look at the Live Site (click here)](https://6y7lsf.csb.app/)
 
 
 
